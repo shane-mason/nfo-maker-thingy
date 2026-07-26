@@ -14,7 +14,7 @@ USER_AGENT = "nfothingy/1.0 ( user@example.com )"
 
 # TMDB v3 API key. Required for the `movie` and `episode` subcommands.
 # Get one for free at https://www.themoviedb.org/settings/api
-TMDB_API_KEY = "058faffac6f7ae1061eafa4ef0b3e4b6"
+TMDB_API_KEY = ""
 
 RATE_LIMIT_SECONDS = 1.0
 SCORE_TRUST_THRESHOLD = 90
